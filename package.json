@@ -2,7 +2,7 @@
   "name": "sorting-visualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "www.kimberashman.com/projects/sorting-algorithms",
+  "homepage": "http://kimberashman.com/sorting-algorithms/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",

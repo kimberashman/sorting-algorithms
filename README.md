@@ -1,6 +1,6 @@
-# Sorting algorithms visualizer 
+# Sorting algorithms visualizer
 
-This app provides a visualization of common sorting algorithms. Try it [here](www.kimberashman.com/projects/sorting-visualizer/)!
+This app provides a visualization of common sorting algorithms. Try it [here](http://kimberashman.com/sorting-algorithms/)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
