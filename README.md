@@ -1,6 +1,6 @@
-# Sorting visualizer 
+# Sorting algorithms visualizer 
 
-This app provides a visualization of common sorting algorithms. Try it [here](www.kimberashman.com/projects/sorting-visualizer/)! 
+This app provides a visualization of common sorting algorithms. Try it [here](www.kimberashman.com/projects/sorting-visualizer/)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-References: 
-1. https://github.com/clementmihailescu/Sorting-Visualizer 
+References:
+1. https://github.com/clementmihailescu/Sorting-Visualizer
