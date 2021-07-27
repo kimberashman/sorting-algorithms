@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/www.kimberashman.com/projects/sorting-algorithms/static/css/main.4cf6911a.chunk.css",
+    "main.js": "/www.kimberashman.com/projects/sorting-algorithms/static/js/main.d7422b49.chunk.js",
+    "main.js.map": "/www.kimberashman.com/projects/sorting-algorithms/static/js/main.d7422b49.chunk.js.map",
+    "runtime-main.js": "/www.kimberashman.com/projects/sorting-algorithms/static/js/runtime-main.9ee2f2d0.js",
+    "runtime-main.js.map": "/www.kimberashman.com/projects/sorting-algorithms/static/js/runtime-main.9ee2f2d0.js.map",
+    "static/js/2.6b8bb106.chunk.js": "/www.kimberashman.com/projects/sorting-algorithms/static/js/2.6b8bb106.chunk.js",
+    "static/js/2.6b8bb106.chunk.js.map": "/www.kimberashman.com/projects/sorting-algorithms/static/js/2.6b8bb106.chunk.js.map",
+    "static/js/3.a5e872bf.chunk.js": "/www.kimberashman.com/projects/sorting-algorithms/static/js/3.a5e872bf.chunk.js",
+    "static/js/3.a5e872bf.chunk.js.map": "/www.kimberashman.com/projects/sorting-algorithms/static/js/3.a5e872bf.chunk.js.map",
+    "index.html": "/www.kimberashman.com/projects/sorting-algorithms/index.html",
+    "static/css/main.4cf6911a.chunk.css.map": "/www.kimberashman.com/projects/sorting-algorithms/static/css/main.4cf6911a.chunk.css.map",
+    "static/js/2.6b8bb106.chunk.js.LICENSE.txt": "/www.kimberashman.com/projects/sorting-algorithms/static/js/2.6b8bb106.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee2f2d0.js",
+    "static/js/2.6b8bb106.chunk.js",
+    "static/css/main.4cf6911a.chunk.css",
+    "static/js/main.d7422b49.chunk.js"
+  ]
+}
