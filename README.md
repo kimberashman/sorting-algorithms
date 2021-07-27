@@ -2,7 +2,7 @@
 
 This app provides a visualization of common sorting algorithms. Try it [here](http://kimberashman.com/sorting-algorithms/)!
 
-![demo](demo.png)
+![demo](demo_img.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
